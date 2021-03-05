@@ -1,6 +1,6 @@
 # Carlos Caravaca Gallego & Almudena Toronjo Ruiz
-### Sistemas de Ayuda a la Navegación / Navigation Aids Systems Course
-GPS and Inertial data acquisition, wrangling and fusion. Brief Study of Airborne Software Systems Certification.
+## Sistemas de Ayuda a la Navegación / Navigation Aids Systems Course
+### GPS and Inertial data acquisition, wrangling and fusion. Brief Study of Airborne Software Systems Certification.
 
 Project and presentation included in folder 'docs'
 
